@@ -167,7 +167,6 @@
         <trackHistory>false</trackHistory>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Travel Approvals</pluralLabel>
     <searchLayouts>
         <searchResultsAdditionalFields>Purpose_of_Trip__c</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Department__c</searchResultsAdditionalFields>

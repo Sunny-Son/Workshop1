@@ -159,7 +159,6 @@
         <label>Expense Item Number</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Expense Items</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
